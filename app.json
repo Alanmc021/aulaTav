@@ -1,0 +1,12 @@
+{
+  "name": "lojaTav",
+  "displayName": "lojaTav",
+  "expo": {
+    "name": "lojaTav",
+    "slug": "lojaTav",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
